@@ -1,0 +1,38 @@
+.imgDiv {
+  margin: auto;
+  width: 50%;
+}
+.imgDiv > img {
+  width: 100%;
+  border-radius: 1000px;
+}
+.intro > h1 {
+  text-align: center;
+  margin-bottom: 0%;
+}
+.intro > p {
+  text-align: center;
+  margin-top: 0;
+}
+.website {
+  font-size: small;
+}
+.website > a {
+  text-decoration: none;
+  color: black;
+}
+.buttons {
+  text-align: center;
+}
+.buttons > button {
+  padding: 4% 12%;
+  margin: 3%;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: rgb(56, 132, 246);
+  border: 0px;
+}
+button > a {
+  text-decoration: none;
+  color: black;
+}

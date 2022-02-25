@@ -1,0 +1,22 @@
+.connect {
+  padding: 2%;
+  margin: auto;
+  background-color: rgb(56, 132, 246);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.icons {
+  list-style-type: none;
+  padding: 2% 15%;
+  margin: 0%;
+}
+.icons > li {
+  font-size: xx-large;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  color: rgb(16, 97, 219);
+}
+li > a {
+  color: black;
+}
